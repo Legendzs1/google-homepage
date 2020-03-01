@@ -1,24 +1,30 @@
-html {
-    background-color: white;
-}
-
+/* Navbar styling*/
 ul {
     list-style-type: none;
+    display: flex;
+    padding: 5px;
 }
 a {
     text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+    font-size: 16px;
+
 }
 
-.header {
-    display:flex;
-    margin: 0;
-    padding: 0;
-}
-
-.left-navbar {
+.divide {
     flex: 1;
 }
-
 .right-navbar {
-    flex: 1;
+}
+
+/*Navbar button */
+.nav-btn {
+
+    border: 1px solid #4285f4;
+    font: inherit;
+    color: inherit;
+    background-color: #4285f4;
+    cursor: pointer;
+
 }
