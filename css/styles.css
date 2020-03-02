@@ -1,5 +1,6 @@
 body {
     color: #fff;
+    height: 100%;
 }
 
 /* Navbar styling*/
@@ -19,7 +20,8 @@ a {
 .divide {
     flex: 1;
 }
-.right-navbar {
+.r-btn {
+    color: white;
 }
 
 /*Navbar button */
@@ -27,7 +29,7 @@ a {
 
     border: 1px solid #4285f4;
     font: inherit;
-    color: inherit;
+    color: white;
     background-color: #4285f4;
     cursor: pointer;
 
@@ -84,3 +86,19 @@ input:focus{
 }
 
 /*Footer */
+
+.footer {
+    display: flex;
+    flex-shrink: 0;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    text-align: center;
+    height: 65px;
+}
+
+a {
+    color:#5f6368;
+}
