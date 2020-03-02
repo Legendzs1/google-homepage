@@ -1,4 +1,5 @@
-Recreating the Google homepage
-// Now cd into the google-homepage project directory that is now on your local machine; setup your README.md file and write a brief introduction for what the current project is and what skills you have demonstrated once you have completed it. (You can do this as a self-reflection at the end of the project which is a good way to review what you have learned.)
+##Recreating the Google homepage
 
-If you want to share this project, include a link in the README.md file - it can look something like this: From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+Recreated the Google homepage with simple CSS/HTML as apart of The Odin Project course
+
+
